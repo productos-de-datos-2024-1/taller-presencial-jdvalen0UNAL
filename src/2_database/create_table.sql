@@ -21,4 +21,3 @@ CREATE TABLE IF NOT EXISTS house_prices (
     sqft_living15 INTEGER,
     sqft_lot15 INTEGER
 );
-
