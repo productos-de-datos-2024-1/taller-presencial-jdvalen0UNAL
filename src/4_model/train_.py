@@ -1,4 +1,3 @@
-
 """Entrenamiento de un modelo de regresión usando sklearn"""
 
 import glob

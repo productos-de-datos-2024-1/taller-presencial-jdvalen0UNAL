@@ -13,10 +13,10 @@ optional arguments:
   --cv CV               Number of cross-validation folds
   --max_neighbors MAX_NEIGHBORS
                         Max number of neighbors to use
+               
 
-                        
-                        
-                        
+                                             
+$ python3 src/model/train.py --max_features 7 --cv 5 --max_neighbors 10                     
                         
 ```
 

@@ -26,6 +26,5 @@ def simple_query():
     for t in result:
         print(t)
 
-
 if __name__ == "__main__":
     simple_query()

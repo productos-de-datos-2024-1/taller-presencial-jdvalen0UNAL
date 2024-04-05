@@ -114,8 +114,6 @@ def downsampling():
     test_sample.to_csv(test_file, index=False, compression="zip")
     logging.info("Test file created")
     #
-
-
 if __name__ == "__main__":
     etl()
     move_files()
